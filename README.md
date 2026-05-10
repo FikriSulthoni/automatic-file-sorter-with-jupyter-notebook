@@ -27,7 +27,7 @@ Program ini saat ini mendukung penyortiran untuk ekstensi file berikut:
 ## Note
 
 ### Secara default, program ini menggunakan path spesifik. Silahkan ubah path ini sebelum menjalankan program.
-# Ubah bagian ini dengan lokasi folder yang ingin disortir
+### Ubah bagian ini dengan lokasi folder yang ingin disortir
 path = r"C:/Users/NamaKamu/Downloads/"
 
 ## Rencana Pengembangan (To-Do List)
