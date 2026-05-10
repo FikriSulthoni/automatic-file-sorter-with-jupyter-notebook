@@ -31,6 +31,6 @@ Program ini saat ini mendukung penyortiran untuk ekstensi file berikut:
 path = r"C:/Users/NamaKamu/Downloads/"
 
 ## Rencana Pengembangan (To-Do List)
-  **Mengonversi script menjadi file .py standar.**
-  **Implementasi watchdog untuk penyortiran real-time di background.**
-  **Membangun Graphical User Interface (GUI) sederhana.**
+* **Mengonversi script menjadi file .py standar.**
+* **Implementasi watchdog untuk penyortiran real-time di background.**
+* **Membangun Graphical User Interface (GUI) sederhana.**
